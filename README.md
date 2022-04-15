@@ -15,4 +15,6 @@
 
 ### Prime Number
 
-### Deutsch-Türkisch Dictionary
+### English-German Dictionary
+
+### Decision Tree
